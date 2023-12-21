@@ -1,5 +1,5 @@
 # README
-This project -1 content my very  first steps into my HTML and CSS learning journey
+This project -1  contains my very  first steps into my HTML and CSS learning journey
 #### Table of conents - How  to add a DIV 1 - DIV2 
 ####    No special requirements 
 div class="”border”">DIV1</div>  for HTML 
